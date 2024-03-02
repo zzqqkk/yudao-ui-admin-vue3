@@ -193,7 +193,7 @@ const LoginRules = {
 }
 const loginData = reactive({
   isShowPassword: false,
-  captchaEnable: import.meta.env.VITE_APP_CAPTCHA_ENABLE !== 'false',
+  captchaEnable: import.meta.env.VITE_APP_CAPTCHA_ENABLE !== 'true',
   tenantEnable: import.meta.env.VITE_APP_TENANT_ENABLE !== 'false',
   loginForm: {
     tenantName: '芋道源码',
