@@ -9,3 +9,5 @@ pnpm-debug
 auto-*.d.ts
 .idea
 .history
+/npm
+/yudao-ui-admin-vue3.iml

@@ -72,7 +72,8 @@ export const APP_LINK_GROUP_LIST = [
       },
       {
         name: '客服',
-        path: '/pages/chat/index'
+        // path: '/pages/chat/index'
+        path: 'https://work.weixin.qq.com/kfid/kfc6ddf49c311e14a8b'
       },
       {
         name: '系统设置',
